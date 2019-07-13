@@ -3,8 +3,8 @@
 
 What to use his notebook for:
 - Implement back-propagation "by hand" in the general case of multiple hidden layers with a choice of activation functions.
-- Test out the system architecture with one pass, consisting of functions for 
-  - forward progagation with relu and sigmoid activation functions
+- Test out the system architecture with one pass forward and backward, with functions for 
+  - forward progagation with relu and sigmoid activations
   - loss computation by cross-entropy
-  - back-progagation to update parameters by gradient descent method.
+  - back-progagation to update parameters by gradient descent
 - Prepare the building blocks for future applications.
