@@ -1,7 +1,7 @@
 # Deep Neural Network Prototype
 ## This notebook presents the development of a deep neural network, i.e. a neural network with more than one hidden layer. 
 
-![DeepLearning_Map](https://user-images.githubusercontent.com/5471571/61168826-7a87db00-a519-11e9-8f15-5ea782180395.png)
+<center><img alt="Deep Neural Net" src="https://user-images.githubusercontent.com/5471571/61168826-7a87db00-a519-11e9-8f15-5ea782180395.png" style="width:42%;height:42%;border:2;" /></center>
 
 What to use his notebook for:
 - Implement back-propagation "by hand" in the general case of multiple hidden layers with various activation functions.
