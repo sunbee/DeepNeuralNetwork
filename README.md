@@ -2,7 +2,7 @@
 ## This notebook presents the development of a deep neural network, i.e. a neural network with more than one hidden layer. 
 
 What to use his notebook for:
-- Implement back-propagation "by hand" in the general case of multiple hidden layers with a choice of activation functions.
+- Implement back-propagation "by hand" in the general case of multiple hidden layers with various activation functions.
 - Test out the system architecture with one pass forward and backward, with functions for 
   - forward progagation with relu and sigmoid activations
   - loss computation by cross-entropy
